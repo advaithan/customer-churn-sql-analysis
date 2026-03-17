@@ -1,0 +1,24 @@
+CUSTOMER CHURN ANALYSIS - KEY INSIGHTS
+
+1. Overall churn rate is 26.58%, indicating that approximately 1 in 4 customers are leaving the service.
+
+2. Contract type is a major driver of churn:
+   - Month-to-month customers show highest churn (42.71%)
+   - Two-year contracts show lowest churn (2.85%)
+
+3. Payment method impacts customer retention:
+   - Electronic check users have highest churn (45.29%)
+   - Auto-payment methods significantly reduce churn
+
+4. Revenue impact:
+   - Estimated revenue loss due to churn is $2.86M
+
+5. High-risk segment identified:
+   - 994 customers belong to high-risk category
+   - Characteristics: Month-to-month + Electronic check
+
+BUSINESS RECOMMENDATIONS:
+
+- Encourage long-term contracts through incentives
+- Promote automated payment methods
+- Target high-risk customers with retention strategies
